@@ -1,5 +1,6 @@
 
-# 💫 About Me:<br>💻 Developer passionate about technology<br>🚀 Building projects and learning every day<br>🌱 Currently learning new frameworks and tools<br>🤝 Open to collaboration and open-source contributions<br>
+# 💫 About Me:
+<br>💻 Developer passionate about technology<br>🚀 Building projects and learning every day<br>🌱 Currently learning new frameworks and tools<br>🤝 Open to collaboration and open-source contributions<br>
 
 
 # 💻 Tech Stack:
